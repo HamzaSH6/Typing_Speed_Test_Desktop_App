@@ -5,7 +5,7 @@
 ![Wordfreq](https://img.shields.io/badge/Wordfreq-Word%20Dataset-orange)
 ![Random](https://img.shields.io/badge/Random-Standard%20Library-lightgrey)
 
-A **Modern desktop Typing Speed Test Application** built using CustomTkinter.  
+A **Modern Typing Speed Test Desktop Application** built using CustomTkinter.  
 It measures typing performance in real time, including Words Per Minute **(WPM)** and Characters Per Minute **(CPM)**,
 using a dynamically generated word list.
 
@@ -36,7 +36,7 @@ using a dynamically generated word list.
 
 ---
 
-### 📌Example Screenshots:
+### 📌 Example Screenshots:
 
 #### Main Interface:
 
